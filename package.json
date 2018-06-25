@@ -1,0 +1,22 @@
+{
+  "name": "react-poster",
+  "version": "1.0.0",
+  "description": "ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldowling/react-poster.git"
+  },
+  "keywords": [
+    "ractjs"
+  ],
+  "author": "Daniel Dowling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldowling/react-poster/issues"
+  },
+  "homepage": "https://github.com/danieldowling/react-poster#readme"
+}
