@@ -11,12 +11,22 @@
     "url": "git+https://github.com/danieldowling/react-poster.git"
   },
   "keywords": [
-    "ractjs"
+    "reactjs"
   ],
   "author": "Daniel Dowling",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/danieldowling/react-poster/issues"
   },
-  "homepage": "https://github.com/danieldowling/react-poster#readme"
+  "homepage": "https://github.com/danieldowling/react-poster#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^4.4.1",
+    "typescript": "^2.9.2",
+    "webpack": "^4.12.1",
+    "webpack-dev-server": "^3.1.4"
+  }
 }
